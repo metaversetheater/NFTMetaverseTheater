@@ -2,7 +2,7 @@
 
 <br/>
 README 日本語 <br/>
-https://github.com/metaversetheater/NFTMetaverseTheater/main/README_JA.md <br/>
+https://github.com/metaversetheater/NFTMetaverseTheater/blob/main/README_JA.md <br/>
 <br/>
 
 
